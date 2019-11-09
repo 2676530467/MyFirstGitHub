@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 // 启动类
 @SpringBootApplication
-public class GithubTestApplication {
+public class MyFirstGitHubApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GithubTestApplication.class, args);
+        SpringApplication.run(MyFirstGitHubApplication.class, args);
     }
 }
